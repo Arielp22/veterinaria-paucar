@@ -1,0 +1,87 @@
+# =========================
+# GENERAL
+# =========================
+**/node_modules/
+**/*.log
+**/*.tmp
+**/*.temp
+**/*.swp
+**/.DS_Store
+**/Thumbs.db
+**/.env
+**/.env.*
+
+# =========================
+# REACT / REACT NATIVE
+# =========================
+**/build/
+**/dist/
+**/.next/
+**/out/
+
+# Logs
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+
+# Expo / Metro
+**/.expo/
+**/.expo-shared/
+**/.expo/web-build/
+
+# =========================
+# ANDROID (KOTLIN / RN)
+# =========================
+**/.gradle/
+**/local.properties
+**/*.iml
+**/.idea/
+**/*.keystore
+**/*.jks
+
+# Build
+**/build/
+**/app/build/
+
+# =========================
+# FLUTTER
+# =========================
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/.pub-cache/
+**/.pub/
+**/build/
+
+# iOS Flutter
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+
+# Android Flutter
+**/android/.gradle/
+**/android/local.properties
+**/android/app/build/
+
+# =========================
+# IDEs
+# =========================
+**/.vscode/
+**/.idea/
+**/*.code-workspace
+
+# =========================
+# SENSIBLES
+# =========================
+**/*.key
+**/*.pem
+**/*.p12
+**/*.crt
+
+# =========================
+# OTROS
+# =========================
+**/coverage/
+**/*.coverage
