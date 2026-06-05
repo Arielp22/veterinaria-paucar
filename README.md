@@ -244,8 +244,7 @@ La API incluye:
 Importa la colección incluida en:
 
 ```text
-postman/veterinaria-api.postman_collection.json
-```
+https://ariel4-2365.postman.co/workspace/jueves~c90dc3d7-8559-4d96-bf33-3f5944d0a0b9/collection/44801044-f0e850a8-1770-4d86-8c2d-577f91950b16?action=share&source=copy-link&creator=44801044```
 
 Incluye:
 
